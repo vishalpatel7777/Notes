@@ -26,7 +26,7 @@
  ex :  <p>&copy; { } Website</p>
 -  it's all about reusing component(reusable section of code  )
 - -----------------------------------------------
-###- how to style with react component :
+### how to style with react component :
  1. external
  2. Modules
  3. inline
@@ -47,6 +47,7 @@ for using this <button style={style}>click</button>
 
 -------------------------------------------------------------------------
 
-###-props => read - only properties that are shared between components . A parent component can send data to a child component.
+### props 
+=> read - only properties that are shared between components . A parent component can send data to a child component.
 -  if I store  other than string value I have to add {} in this 
 - 
